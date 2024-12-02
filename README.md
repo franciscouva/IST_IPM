@@ -1,2 +1,2 @@
 # Human-Computer Interaction
-Human-Computer Interaction course @ Instituto Superior Técnico 2023/24
+course @ Instituto Superior Técnico 2023/24
